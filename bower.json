@@ -8,29 +8,7 @@
     "Jon Schlinkert (https://github.com/jonschlinkert)"
   ],
   "dependencies": {
-    "array-sort": "^0.1.1",
-    "base-data": "^0.3.3",
-    "base-methods": "^0.6.1",
-    "base-options": "^0.5.4",
-    "base-plugins": "^0.4.1",
-    "clone": "^1.0.2",
-    "clone-stats": "0.0.1",
-    "define-property": "^0.2.5",
-    "en-route": "^0.7.3",
-    "engine-base": "^0.1.2",
-    "engine-cache": "^0.16.1",
-    "export-files": "^2.1.0",
-    "extend-shallow": "^2.0.1",
-    "group-array": "^0.3.0",
-    "has-glob": "^0.1.1",
-    "inflection": "^1.8.0",
-    "is-buffer": "^1.1.0",
-    "layouts": "^0.10.6",
-    "lazy-cache": "^0.2.4",
-    "load-helpers": "^0.2.9",
-    "paginationator": "^0.1.2",
-    "template-error": "^0.1.2",
-    "vinyl": "^1.1.0"
+    
   },
   "devDependencies": {
     "ansi-green": "^0.1.1",
